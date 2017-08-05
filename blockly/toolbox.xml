@@ -1,0 +1,22 @@
+<category id="catEV3BT" tags="fly,mark1,smart">
+  <block type="variables_set">
+    <field name="VAR">adapter</field>
+    <value name="VALUE">
+      <block type="ev3bt_new">
+        <field name="rx_">10</field>
+        <field name="tx_">11</field>
+      </block>
+    </value>
+  </block>
+  <block type="ev3bt_sendmsg">
+    <value name="value_">
+      <block type="text">
+        <field name="TEXT">Hello</field>
+      </block>
+    </value>
+  </block>
+  <block type="ev3bt_getmsg">
+  </block>
+  <block type="ev3bt_recv">
+  </block>
+</category>

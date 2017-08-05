@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-ev3bt",
+  "description": "EV3 Bluetooth Module for Webduino",
+  "main": "EV3BT.js",
+  "authors": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "ev3bt"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

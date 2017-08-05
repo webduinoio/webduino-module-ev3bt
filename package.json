@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-ev3bt",
+  "version": "1.0.0",
+  "description": "EV3-Bluetooth Module for Webduino",
+  "main": "EV3BT.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "ev3bt"
+  ],
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}
