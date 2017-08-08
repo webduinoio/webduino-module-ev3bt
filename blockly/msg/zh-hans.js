@@ -1,1 +1,1 @@
-MSG.catEV3BT = "連線樂高 EV3";
+MSG.catEV3BT = "樂高 EV3";

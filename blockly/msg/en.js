@@ -1,1 +1,1 @@
-MSG.catEV3BT = "Connect Lego EV3";
+MSG.catEV3BT = "Lego EV3";
