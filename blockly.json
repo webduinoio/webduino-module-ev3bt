@@ -1,6 +1,6 @@
 {
     "types": ["ev3bt_new", "ev3bt_sendmsg", "ev3bt_getmsg", "ev3bt_recv"],
-    "category": "catMenu1",
+    "category": "catMenu3",
     "scripts": [
         "blockly/blocks.js",
         "blockly/javascript.js"
