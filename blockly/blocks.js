@@ -34,7 +34,7 @@ Blockly.Blocks['ev3bt_new'] = {
         this.setOutput(true);
         this.setColour(230);
         this.setTooltip('');
-        this.setHelpUrl('https://webduino.io');
+        this.setHelpUrl('https://tutorials.webduino.io/');
     }
 };
 
@@ -58,7 +58,7 @@ Blockly.Blocks['ev3bt_sendmsg'] = {
         this.setNextStatement(true, null);
         this.setColour(65);
         this.setTooltip('');
-        this.setHelpUrl('http://www.example.com/');
+        this.setHelpUrl('https://tutorials.webduino.io/');
     }
 };
 
@@ -78,7 +78,7 @@ Blockly.Blocks['ev3bt_recv'] = {
         this.setNextStatement(true, null);
         this.setColour(65);
         this.setTooltip('');
-        this.setHelpUrl('https://webduino.io');
+        this.setHelpUrl('https://tutorials.webduino.io/');
     }
 };
 
@@ -90,8 +90,8 @@ Blockly.Blocks['ev3bt_getmsg'] = {
             .appendField(Blockly.Msg.WEBDUINO_EV3BT_GET_MSG, "取得目前訊息資料");
         this.setInputsInline(true);
         this.setOutput(true, null);
-        this.setColour(65);
+        this.setColour(35);
         this.setTooltip('');
-        this.setHelpUrl('https://webduino.io');
+        this.setHelpUrl('https://tutorials.webduino.io/');
     }
 };

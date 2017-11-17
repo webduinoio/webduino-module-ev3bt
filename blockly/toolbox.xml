@@ -1,4 +1,4 @@
-<category id="catEV3BT" tags="fly,mark1,smart">
+<category id="catEV3BT" tags="fly,mark1,smart" index="3">
   <block type="variables_set">
     <field name="VAR">adapter</field>
     <value name="VALUE">
