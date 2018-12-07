@@ -3,7 +3,7 @@
   "description": "EV3 Bluetooth Module for Webduino",
   "main": "EV3BT.js",
   "authors": "",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "arduino",
     "webduino",
